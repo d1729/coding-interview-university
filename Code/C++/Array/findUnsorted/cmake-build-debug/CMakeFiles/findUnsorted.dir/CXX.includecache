@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/debarshighosh/Desktop/Google_univ/google-interview-university/Code/C++/Array/findUnsorted/main.cpp
+iostream
+-
+
