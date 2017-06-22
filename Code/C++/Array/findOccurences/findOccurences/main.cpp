@@ -1,5 +1,5 @@
 /*
- *Find the number of occurences of an array in a sorted array
+ *Find the number of occurences of an element in a sorted array
  */
 #include <iostream>
 #include <algorithm>
