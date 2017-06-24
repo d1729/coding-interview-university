@@ -40,4 +40,6 @@
 
 19. [Find the median of two sorted arrays](sortedMedian.cpp)
 
-20. [Sort the elements of an array by their frequency](sortByFrequency.cpp)
+20. [Find the median of streaming integers](StreamingMedian/StreamingMedian/main.cpp)
+
+21. [Sort the elements of an array by their frequency](sortByFrequency.cpp)
