@@ -44,4 +44,6 @@
 
 21. [Sort the elements of an array by their frequency](sortByFrequency.cpp)
 
-22. [Find fixed point in an array(arr\[\] == i)](fixedPoint.cpp)
+22. [Find fixed point in an array(arr\[i\] == i)](fixedPoint.cpp)
+
+23. [Find Maximum Bitonic array(maximum length of subarray such that i < k < j and A\[i\] < A\[i + 1\] ...<A\[k\] > A\[k + 1\] >A\[j\] )](maximumBitoniArray.cpp)
