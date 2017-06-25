@@ -47,3 +47,13 @@
 22. [Find fixed point in an array(arr\[i\] == i)](fixedPoint.cpp)
 
 23. [Find Maximum Bitonic array(maximum length of subarray such that i < k < j and A\[i\] < A\[i + 1\] ...<A\[k\] > A\[k + 1\] >A\[j\] )](maximumBitoniArray.cpp)
+
+24. [Find the pick element in an array](maxElement.cpp)
+
+25. [Find the minimum number of jumps to reach the end of the array](jumps.cpp)
+
+26. [Find two elements in array such that their sum is equal to given value](FindSum.cpp)
+
+27. [Find the majority element in the array](MajorityElement.cpp)
+
+28. [Find the number occuring odd number of times](OccurOdd.cpp)
