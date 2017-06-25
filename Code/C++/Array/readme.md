@@ -57,3 +57,7 @@
 27. [Find the majority element in the array](MajorityElement.cpp)
 
 28. [Find the number occuring odd number of times](OccurOdd.cpp)
+
+29. [Implement two stacks using an array](twoStack.cpp)
+
+30. [Find subarray whose sum is equal to given value(non-negative numbers)](subArray.cpp)
