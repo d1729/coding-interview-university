@@ -65,3 +65,9 @@
 31. [Maximum Sum Increasing subsequence](maximumSumIncreasingSubsequence.cpp)
 
 32. [Longest Increasing subsequence(nlogn approach)](LIS.cpp)
+
+33. [Find if there is any triplet in an array whose sum is equal to a given value](findTriplets.cpp)
+
+34. [Find the first missing positive number in an array of positive and negative numbers](findFirstMissingPositive.cpp)
+
+35. [Find the two numbers that occur odd number of times in an unsorted array in O(n) time and O(1) extra space](oddOccuring.cpp)
