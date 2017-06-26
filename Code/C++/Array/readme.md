@@ -61,3 +61,7 @@
 29. [Implement two stacks using an array](twoStack.cpp)
 
 30. [Find subarray whose sum is equal to given value(non-negative numbers)](subArray.cpp)
+
+31. [Maximum Sum Increasing subsequence](maximumSumIncreasingSubsequence.cpp)
+
+32. [Longest Increasing subsequence(nlogn approach)](LIS.cpp)
