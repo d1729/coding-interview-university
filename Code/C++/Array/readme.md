@@ -71,3 +71,5 @@
 34. [Find the first missing positive number in an array of positive and negative numbers](findFirstMissingPositive.cpp)
 
 35. [Find the two numbers that occur odd number of times in an unsorted array in O(n) time and O(1) extra space](oddOccuring.cpp)
+
+36. [celebrity problem](celebrityproblem.cpp)
