@@ -81,3 +81,7 @@
 39. [Find largest subarray with equal number of ones and zeroes](largest01Subarray.cpp)
 
 40. [Largest product subarray](largestProductArray.cpp)
+
+41. [You are given N pairs of numbers. In every pair, the first number is always smaller than the second number. A pair (c, d) can follow another pair (a, b) if b < c. Chain of pairs can be formed in this fashion. Your task is to complete the function maxChainLen which returns an integer denoting the longest chain which can be formed from a given set of pairs.](LISpairs.cpp)
+
+42. [Find four numbers whose sum is equal to a given number in O(nlogn) time](find4Sum.cpp)
