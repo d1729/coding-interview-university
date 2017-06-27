@@ -73,3 +73,11 @@
 35. [Find the two numbers that occur odd number of times in an unsorted array in O(n) time and O(1) extra space](oddOccuring.cpp)
 
 36. [celebrity problem](celebrityproblem.cpp)
+
+37. [Longest Bitonic Subsequence](LBS.cpp)
+
+38. [Find Sorted subsequence of size 3](3sortedSubsequence.cpp)
+
+39. [Find largest subarray with equal number of ones and zeroes](largest01Subarray.cpp)
+
+40. [Largest product subarray](largestProductArray.cpp)
