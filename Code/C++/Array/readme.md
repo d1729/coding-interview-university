@@ -1,4 +1,4 @@
-# List of problems
+# List of array based problems
 
 
 
@@ -85,3 +85,11 @@
 41. [You are given N pairs of numbers. In every pair, the first number is always smaller than the second number. A pair (c, d) can follow another pair (a, b) if b < c. Chain of pairs can be formed in this fashion. Your task is to complete the function maxChainLen which returns an integer denoting the longest chain which can be formed from a given set of pairs.](LISpairs.cpp)
 
 42. [Find four numbers whose sum is equal to a given number in O(nlogn) time](find4Sum.cpp)
+
+43. [Sort a nearly k sorted array in O(nlogk) time](KSorted.cpp)
+
+44. [Find the max contiguous subarray sum in a circular array](maximumCircularArray.cpp)
+
+45. [Find the row with maximum number of 1's where each row is sorted and only contains 0 and 1's](maxOnes.cpp)
+
+46. [Shuffle all the cards in a deck in O(n) time](shuffle.cpp)
