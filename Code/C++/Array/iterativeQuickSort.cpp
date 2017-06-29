@@ -13,7 +13,7 @@ int partition(int arr[], int l, int h){
 
 void quickSort(int arr[], int l, int h){
     int stack[h - l + 1];
-    int top = -1;
+    int top = l - 1;
     stack[++top] = l;
     stack[++top] = h;
     while (top >= 0){
