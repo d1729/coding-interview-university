@@ -93,3 +93,11 @@
 45. [Find the row with maximum number of 1's where each row is sorted and only contains 0 and 1's](maxOnes.cpp)
 
 46. [Shuffle all the cards in a deck in O(n) time](shuffle.cpp)
+
+47. [Count the number of possible triangles formed from a given array](countTriangles.cpp)
+
+48. [Iterative quickSort](iterativeQuickSort.cpp)
+
+49. [Find the first circular tour that visits all petrol pumpsSuppose there is a circle. There are n petrol pumps on that circle. You are given two sets of data. The amount of petrol that every petrol pump has.Distance from that petrol pump to the next petrol pump. Calculate the first point from where a truck will be able to complete the circle (The truck will stop at each petrol pump and it has infinite capacity). Expected time complexity is O(n). Assume for 1 litre petrol, the truck can go 1 unit of distance.](circularPath.cpp)
+
+50. [Arrange given numbers to form the biggest number](maximumPossibleNumber.cpp)
