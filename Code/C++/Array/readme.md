@@ -101,3 +101,9 @@
 49. [Find the first circular tour that visits all petrol pumpsSuppose there is a circle. There are n petrol pumps on that circle. You are given two sets of data. The amount of petrol that every petrol pump has.Distance from that petrol pump to the next petrol pump. Calculate the first point from where a truck will be able to complete the circle (The truck will stop at each petrol pump and it has infinite capacity). Expected time complexity is O(n). Assume for 1 litre petrol, the truck can go 1 unit of distance.](circularPath.cpp)
 
 50. [Arrange given numbers to form the biggest number](maximumPossibleNumber.cpp)
+
+51. [Merge intervals](mergeIntervals.cpp)
+
+52. [Find the number that is repeating maximum number of times](maximumRepeating.cpp)
+
+53. [Find the maximum profit possible buying and selling shares(at one instance can only hold one share)](maximumProfit.cpp)
