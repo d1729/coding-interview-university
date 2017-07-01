@@ -107,3 +107,11 @@
 52. [Find the number that is repeating maximum number of times](maximumRepeating.cpp)
 
 53. [Find the maximum profit possible buying and selling shares(at one instance can only hold one share)](maximumProfit.cpp)
+
+54. [Peak element](peakElement.cpp)
+
+55. [Move all the zeroes to the end](Zeroes.cpp)
+
+56. [Given an array of size n, find all elements in array that appear more than n/k times.](countElementOccurences.cpp)
+
+57. [Find the minimum value in a sorted and rotated array](findMinimum.cpp)
