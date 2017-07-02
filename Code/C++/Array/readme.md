@@ -115,3 +115,11 @@
 56. [Given an array of size n, find all elements in array that appear more than n/k times.](countElementOccurences.cpp)
 
 57. [Find the minimum value in a sorted and rotated array](findMinimum.cpp)
+
+58. [Merge k sorted arrays](mergeKSorted.cpp)
+
+59. [Given two arrays find number of pairs (x, y) such that x ^ y > y ^ x](findPairs.cpp)
+
+60. [Given an array find number of pairs of (A\[i\], A\[j\]) such that difference is equal to k](distinctPairwithDifference.cpp)
+
+61. [Find the smallest subarray length whose sum is greater than given value(only positive considered)](greaterSum.cpp)
