@@ -123,3 +123,9 @@
 60. [Given an array find number of pairs of (A\[i\], A\[j\]) such that difference is equal to k](distinctPairwithDifference.cpp)
 
 61. [Find the smallest subarray length whose sum is greater than given value(only positive considered)](greaterSum.cpp)
+
+62. [Sort an array according to the order defined by another array](relativeSorting.cpp)
+
+63. [Wave sort an array(arr\[0\]>=arr\[1\]<=arr\[2\]>=arr\[4\]<=....)](waveSorting.cpp)
+
+64. [Find the kth smallest element in expected O(n) time](kthSmallest.cpp)
