@@ -129,3 +129,7 @@
 63. [Wave sort an array(arr\[0\]>=arr\[1\]<=arr\[2\]>=arr\[4\]<=....)](waveSorting.cpp)
 
 64. [Find the kth smallest element in expected O(n) time](kthSmallest.cpp)
+
+65. [Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array](zerotoOne.cpp)
+
+66. [Find the first index where the element is larger or equal to a given key](lowerBound.cpp)
