@@ -137,3 +137,5 @@
 67. [Given an array A of N sorted positive integers, find the smallest positive integer S such that S cannot be represented as sum of elements of any subset of the given array set.](firstMissingPositiveNum.cpp)
 
 68. [Rearrange an array such that ‘arr\[j\]’ becomes ‘i’ if ‘arr\[i\]’ is ‘j’](reArrange.cpp)
+
+69. [Search for pythagorian Triplets in an unsorted arrya(O(n^2))](pythagorianTriplet.cpp)
