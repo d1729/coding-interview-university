@@ -133,3 +133,7 @@
 65. [Find Index of 0 to be replaced with 1 to get longest continuous sequence of 1s in a binary array](zerotoOne.cpp)
 
 66. [Find the first index where the element is larger or equal to a given key](lowerBound.cpp)
+
+67. [Given an array A of N sorted positive integers, find the smallest positive integer S such that S cannot be represented as sum of elements of any subset of the given array set.](firstMissingPositiveNum.cpp)
+
+68. [Rearrange an array such that ‘arr\[j\]’ becomes ‘i’ if ‘arr\[i\]’ is ‘j’](reArrange.cpp)
