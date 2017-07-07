@@ -10,3 +10,9 @@
 4. [Reverse a given linked list(in iterative method)](reverseIterative.cpp)
 
 5. [Reverse a given linked list(in recursive method)](reverseRecursive.cpp)
+
+6. [Detect Loop in a linked list](detectLoop.cpp)
+
+7. [Merge two sorted linked lists](mergeSorted.cpp)
+
+8. [Insert a node into a sorted linked list](InsertNode.cpp)
