@@ -16,3 +16,7 @@
 7. [Merge two sorted linked lists](mergeSorted.cpp)
 
 8. [Insert a node into a sorted linked list](InsertNode.cpp)
+
+9. [intersection Point of two linked lists](intersection.cpp)
+
+10. [Check whether the linked list is a palindrome](isPalindrome.cpp)
