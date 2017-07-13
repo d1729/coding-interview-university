@@ -26,3 +26,9 @@
 12. [alternatively split linked list](splitList.cpp)
 
 13. [merge Sort a Linked List](mergeSort.cpp)
+
+14. [reverse linked list in size of k chunks](reverseK.cpp)
+
+15. [delete all the nodes which have larger values on the right](deleteRightLarger.cpp)
+
+16. [segregate even and odd nodes keeping their order intact](segregate.cpp)
