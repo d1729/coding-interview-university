@@ -20,3 +20,9 @@
 9. [intersection Point of two linked lists](intersection.cpp)
 
 10. [Check whether the linked list is a palindrome](isPalindrome.cpp)
+
+11. [Print Linked List in reversed order](printReverse.cpp)
+
+12. [alternatively split linked list](splitList.cpp)
+
+13. [merge Sort a Linked List](mergeSort.cpp)
