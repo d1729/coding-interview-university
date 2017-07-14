@@ -16,7 +16,7 @@
 
 7. [Find out if an array contains only consecutive elements](isConsecutive/main.cpp)
 
-8. [Find the maximum value of j - i such that Aj > Ai](maximumIndexDifference/MaximumIndexDifference/main.cpp)
+8. [Find the maximum value of j - i such that Aj > Ai](MaximumIndexDifference/MaximumIndexDifference/main.cpp)
 
 9. [Find out the minimum distance between two given values](MinimumDistance/MinimumDistance/main.cpp)
 
