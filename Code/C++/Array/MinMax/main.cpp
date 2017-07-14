@@ -14,7 +14,7 @@ pair1 findMinMax(int arr[], int size){
     pair1 minmax;
     if(size % 2){
         minmax.max = arr[0];
-        minmax.min = arr[1];
+        minmax.min = arr[0];
         i = 1;
     } else{
         minmax.min = arr[0] <= arr[1] ? arr[0] : arr[1];
