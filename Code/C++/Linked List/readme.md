@@ -38,3 +38,5 @@
 18. [Sum of two linked lists](sum.cpp)
 
 19. [Flatten a linked list](flatten.cpp)
+
+20. [Sum of two linked list](sum2.cpp)
