@@ -32,3 +32,9 @@
 15. [delete all the nodes which have larger values on the right](deleteRightLarger.cpp)
 
 16. [segregate even and odd nodes keeping their order intact](segregate.cpp)
+
+17. [Find and remove loop from Linked List](removeLoop.cpp)
+
+18. [Sum of two linked lists](sum.cpp)
+
+19. [Flatten a linked list](flatten.cpp)
