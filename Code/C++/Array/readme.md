@@ -20,7 +20,7 @@
 
 9. [Find out the minimum distance between two given values](MinimumDistance/MinimumDistance/main.cpp)
 
-10. [Find out the minimum and maximum of an array in minimum number of comparisons](Minmax/main.cpp)
+10. [Find out the minimum and maximum of an array in minimum number of comparisons](MinMax/main.cpp)
 
 11. [Find the next greater element for each element in an array](nextGreaterElement/main.cpp)
 
