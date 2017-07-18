@@ -1,5 +1,8 @@
+/*
+*	Rearrange a linked list A0->A1->A2->A3->......->An-1->An becomes
+*	A0->An->A1->An-1->A2->An-2->.....
+*/
 #include<iostream>
-// this header file is to use all header file at once
 #define ll long long
 using namespace std;
 
@@ -10,7 +13,6 @@ struct Node {
 };
 
 
-// this is the recursive function I used
 Node* rer(Node *a, Node *b) {
 
 	if(b->next!=NULL) {
@@ -44,9 +46,6 @@ Node* rer(Node *a, Node *b) {
 	return c;
 }
 
-// this function is to start the rearrangement
-// this is just to specify things properly
-// you can start rearrangement in main function also
 Node* Rearrange(Node *start) {
     if(!start || !start->next || !start->next->next)return start;
 	Node* c = rer(start,start->next);
@@ -55,7 +54,6 @@ Node* Rearrange(Node *start) {
 	return start;
 }
 
-// to display the list
 void display(Node *start)
 {
 	struct Node *newnode=start;
@@ -68,15 +66,10 @@ void display(Node *start)
 
 }
 
-// To create the list
 Node* create()
 {
 	Node *curr = NULL,*start = NULL;
-	// the curr node is just to point the last node
-	// so that I will not be needed to traverse every time
 	int i=1;
-	// here I created the list directly and sequentially
-	//but you can edit the create function
 	do {
 		struct Node *newnode = new Node;
 		newnode->next = NULL;
@@ -89,8 +82,7 @@ Node* create()
 			curr = newnode;
 		}
 
-	}while(i!=9); // this is the counter to end the list
-	//cout<<"list is created\n";
+	}while(i!=9);
 	return start;
 }
 

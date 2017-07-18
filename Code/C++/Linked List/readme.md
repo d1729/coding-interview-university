@@ -46,3 +46,7 @@
 22. [Pairwise Swap Nodes(change links iteratively/recursively)](swap2.cpp)
 
 23. [Clone a linked list where each node has a next pointer and an arbitrary pointer(in O(1) auxiliary space)](clone.cpp)
+
+24. [Rearrange a linked list so that A0->A1->A2->A3->....->An-1->An becomes A0->An->A1->An-1->A2->An-2->....](reArrange.cpp)
+
+25. [Rearran a linked list such that all the odd placed and even placed elements occur together](reArrangeEvenOdd.cpp)
