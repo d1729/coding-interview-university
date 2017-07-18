@@ -1,7 +1,7 @@
 # LIST OF PROBLEMS
 
 
-1. [Swap nodes](swapNodes.cpp)
+1. [Remove all middle elements of a line represented as a linked list](removeMiddlePoints.cpp)
 
 2. [Get the middle Node](middleNode.cpp)
 
@@ -40,3 +40,9 @@
 19. [Flatten a linked list](flatten.cpp)
 
 20. [Sum of two linked list](sum2.cpp)
+
+21. [Pairwise Swap nodes(change values only)](swapNodes.cpp)
+
+22. [Pairwise Swap Nodes(change links iteratively/recursively)](swap2.cpp)
+
+23. [Clone a linked list where each node has a next pointer and an arbitrary pointer(in O(1) auxiliary space)](clone.cpp)
