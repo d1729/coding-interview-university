@@ -52,3 +52,9 @@
 25. [Rearran a linked list such that all the odd placed and even placed elements occur together](reArrangeEvenOdd.cpp)
 
 26. [Zigzag a linked list(a<b>c<d>....)](zigzag.cpp)
+
+27. [Add one to a linked list(recursive)](add1.cpp)
+
+28. [Sort a linked list that is sorted by absolute values](sort.cpp)
+
+29. [Insert into a sorted Circular Linked List](circularInsertion.cpp)
