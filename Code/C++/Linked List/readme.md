@@ -50,3 +50,5 @@
 24. [Rearrange a linked list so that A0->A1->A2->A3->....->An-1->An becomes A0->An->A1->An-1->A2->An-2->....](reArrange.cpp)
 
 25. [Rearran a linked list such that all the odd placed and even placed elements occur together](reArrangeEvenOdd.cpp)
+
+26. [Zigzag a linked list(a<b>c<d>....)](zigzag.cpp)
