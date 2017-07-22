@@ -58,3 +58,9 @@
 28. [Sort a linked list that is sorted by absolute values](sort.cpp)
 
 29. [Insert into a sorted Circular Linked List](circularInsertion.cpp)
+
+30. [quickSort a Doubly linked list](quickSortDLL.cpp)
+
+31. [Swap the kth node from start with the kth node from last](swapKth.cpp)
+
+32. [Merge Sort a Doubly linked list](mergeSortDLL.cpp)
